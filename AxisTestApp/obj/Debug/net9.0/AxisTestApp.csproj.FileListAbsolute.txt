@@ -1,0 +1,14 @@
+C:\Users\clear\Project\tiling_cs\AxisTestApp\bin\Debug\net9.0\AxisTestApp.exe
+C:\Users\clear\Project\tiling_cs\AxisTestApp\bin\Debug\net9.0\AxisTestApp.deps.json
+C:\Users\clear\Project\tiling_cs\AxisTestApp\bin\Debug\net9.0\AxisTestApp.runtimeconfig.json
+C:\Users\clear\Project\tiling_cs\AxisTestApp\bin\Debug\net9.0\AxisTestApp.dll
+C:\Users\clear\Project\tiling_cs\AxisTestApp\bin\Debug\net9.0\AxisTestApp.pdb
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.AssemblyInfoInputs.cache
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.AssemblyInfo.cs
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.csproj.CoreCompileInputs.cache
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.dll
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\refint\AxisTestApp.dll
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.pdb
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\AxisTestApp.genruntimeconfig.cache
+C:\Users\clear\Project\tiling_cs\AxisTestApp\obj\Debug\net9.0\ref\AxisTestApp.dll

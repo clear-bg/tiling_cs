@@ -1,0 +1,14 @@
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.AssemblyInfoInputs.cache
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.AssemblyInfo.cs
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.csproj.CoreCompileInputs.cache
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\bin\Debug\net9.0\PlySplotterApp.exe
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\bin\Debug\net9.0\PlySplotterApp.deps.json
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\bin\Debug\net9.0\PlySplotterApp.runtimeconfig.json
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\bin\Debug\net9.0\PlySplotterApp.dll
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\bin\Debug\net9.0\PlySplotterApp.pdb
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.dll
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\refint\PlySplotterApp.dll
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.pdb
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\PlySplotterApp.genruntimeconfig.cache
+C:\Users\clear\Project\tiling_cs\PlySplotterApp\obj\Debug\net9.0\ref\PlySplotterApp.dll
